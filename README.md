@@ -42,7 +42,7 @@ I’m currently learning Pega and preparing for the **Certified System Architect
 
 **Smart Parking Management System**  
 A real-time system that helps drivers find available parking spots through sensors and a live web dashboard.  
-👉 [Check it out](https://your-live-demo-link.com)
+👉 [Graduation-project](https://github.com/KhalidAlfehaid/Graduation-project/blob/main/README.md)
 
 ---
 
