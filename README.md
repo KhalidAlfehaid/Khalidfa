@@ -48,10 +48,14 @@ A real-time system that helps drivers find available parking spots through senso
 
 ## Certifications
 
--  **Programming for Data Science with Python** – Udacity  
--  **Build Responsive Real-world Website with HTML and CSS**  
--  **Certified Pega System Architect (CSA)** – PEGA  
+
+-	**Programming for Data Science with Python** – Udacity
+-	**Pega System Architect (CSA)**  – Pega
+-	**Artificial Intelligence Concepts and Advanced Applications** – SDAIA
+-	**Data analysis course completion** – Tuwaiq academy
+-	**Fundamentals of multitasking and prioritization**
 -  **Power BI** – Data Visualization & Reporting
+
 ---
 
 ⭐️ Thank you for visiting my GitHub! Feel free to explore my projects — and don’t forget to star ⭐ the ones you like! 😊
