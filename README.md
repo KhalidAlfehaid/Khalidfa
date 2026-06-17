@@ -3,14 +3,14 @@
 
 🎓 Computer Information Systems – Graduating Summer 2025 | 📍 Saudi Arabia  
 📧 Email: khalid.f.alfehaid@gmail.com 
-🔗 LinkedIn: [khalid-alfehaid-20010611k](linkedin.com/in/khalid-alfehaid-20010611k)
+🔗 LinkedIn: [khalidalfehaid](linkedin.com/in/khalidalfehaid)
 
 ---
 
 ## 🚀 About Me
 
-I’m a recent Computer Information Systems graduate with a passion for building smart, scalable solutions.  
-My interests span across **Software Development**, **Data Analytics**, **Cloud Platforms**, and **Low-Code Automation** using tools like Pega.  
+Software Developer specialized in Computer Information Systems with strong technical and analytical skills.  
+My interests span across **Software Development**, **Data Analytics**, **Cloud Platforms**, and **Low-Code Automation** .  
 I enjoy bridging the gap between backend systems, data, and user-focused applications.
 
 My graduation project focused on building a **Smart Parking Management System** using Arduino, ESP8266, and a web-based dashboard built with React and Next.js.
