@@ -3,7 +3,7 @@
 
 🎓 Computer Information Systems – Graduating Summer 2025 | 📍 Saudi Arabia  
 📧 Email: khalid.f.alfehaid@gmail.com 
-🔗 LinkedIn: [khalid alfehaid](linkedin.com/in/khalidalfehaid)
+🔗 LinkedIn: [linkedin.com/in/khalidalfehaid](linkedin.com/in/khalidalfehaid)
 
 ---
 
